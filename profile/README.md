@@ -6,6 +6,20 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to enhancing 
 2. **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)**
 3. **[tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)**
 
+
+---
+
+# Join the Movement
+
+Interested in helping shape the future of Shortcuts? 
+
+Join today!
+https://routinehub.link/join-openjelly
+
+---
+
+
+
 ## What is OpenJelly?
 
 The OpenJelly Initiative is an open-source project aimed at revolutionizing mobile-first environments. By providing a text-based language and a dedicated IDE, we empower mobile developers to create more versatile and accessible Shortcuts breaking free from the limitations of traditional platforms.
