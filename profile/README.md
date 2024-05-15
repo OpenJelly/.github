@@ -51,8 +51,6 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 
 # FAQs
 
-## FAQs
-
 1. **I'm not great with Github or Git, where can I try Jelly Lang and this Jellycuts mobile IDE?**
    - Visit [jellycuts.com](https://jellycuts.com) and download for free. 
 
