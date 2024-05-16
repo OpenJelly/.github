@@ -1,10 +1,17 @@
 # OpenJelly 
 
-Welcome to the OpenJelly Initiative! Our organization is dedicated to enhancing the mobile-first development landscape with our innovative tools and libraries. We are responsible for three key repositories:
+<a href="https://openjelly.com/join-discord" target="_blank">
+  <img src="https://img.shields.io/discord/503976650439131183?logo=discord&amp;label=discord" alt="Star on GitHub">
+</a>
 
-1. **[Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)**
-2. **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)**
-3. **[tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)**
+Welcome to the OpenJelly Initiative! Our organization is dedicated to acclerating and enhancing mobile-first development through innovative tools and libraries. We are responsible for these key repositories:
+
+
+|       | Repository | Description |
+|-------|---------|-------------|
+| <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub"></a> | **[Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)** | Enhance Shortcut development with a versatile, text-based language. |
+| <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a> | **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)** | Tailored for mobile development, this [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) enables devs to code from their phone. |
+|  <a href="https://github.com/OpenJelly/tree-sitter-jelly" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/tree-sitter-jelly?style=social" alt="Star on GitHub"></a> | **[tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)** | A parser for the Jelly language, enabling efficient syntax highlighting and code analysis. |
 
 
 ---
@@ -14,15 +21,18 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to enhancing 
 
 Interested in helping shape the future of Shortcuts? 
 
-Join today!
+Complete this Google Form and we will contact you! 
+
 https://routinehub.link/join-openjelly
 
 
 # Discuss the Roadmap
 
-To discuss our roadmap, please visit the RoutineHub Discord. Your insights and feedback are invaluable to us!
+To discuss our roadmap, please visit the [#OpenJelly Channel on RoutineHub Discord](https://openjelly.com/join-discord). Your insights and feedback are invaluable to us!
 
-https://routinehub.link/join-discord
+
+https://openjelly.com/join-discord
+
 
 # Support Our Work
 
@@ -38,34 +48,28 @@ Click the button above to star our [Open-Jellycore](https://github.com/OpenJelly
 
 ## Open-Jellycuts
 <!-- GitHub Star Button -->
-<a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank">  
-  <img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub">
-</a>
+<a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a>
 
-Click the button above to star our [Open-Jellycuts]([https://github.com/OpenJelly/Open-Jellycore](https://github.com/OpenJelly/Open-Jellycuts) IDE.
+Click the button above to star our [Open-Jellycuts](https://github.com/OpenJelly/Open-Jellycuts) IDE.
+
+## Tree-Sitter Jelly
+
+<!-- GitHub Star Button -->
+<a href="https://github.com/OpenJelly/tree-sitter-jelly" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/tree-sitter-jelly?style=social" alt="Star on GitHub"></a>
+
+Click the button above to star our [tree-sitter-jelly](https://github.com/OpenJelly/tree-sitter-jelly) language parser.
 
 
 ---
 
 
-## What is OpenJelly?
+# What is OpenJelly?
 
 The OpenJelly Initiative is an open-source project aimed at revolutionizing mobile-first environments. By providing a text-based language and a dedicated IDE, we empower mobile developers to create more versatile and accessible Shortcuts breaking free from the limitations of traditional platforms.
 
-## Quick Start
 
-To get started with our tools:
 
-1. **Open-Jellycore Language**: This text-based language is designed for creating Shortcuts across various platforms.
-   - Repository: [Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)
-
-2. **Open-Jellycuts IDE**: Tailored for mobile development, this IDE allows developers to craft Shortcuts directly from their mobile devices.
-   - Repository: [Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)
-
-3. **tree-sitter-jelly**: A parser for the Jelly language, enabling efficient syntax highlighting and code analysis.
-   - Repository: [tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)
-
-## Documentation
+# Documentation
 
 Comprehensive documentation for each project can be found in their respective repositories:
 
@@ -73,17 +77,13 @@ Comprehensive documentation for each project can be found in their respective re
 - [Open-Jellycuts Documentation](https://github.com/Jellycuts/Open-Jellycuts#readme)
 - [tree-sitter-jelly Documentation](https://github.com/Jellycuts/tree-sitter-jelly#readme)
 
-## Key Features
 
-- **Open-Jellycore Language**: Enhance Shortcut development with a versatile, text-based language.
-- **Open-Jellycuts IDE**: Mobile-friendly IDE for creating and managing Shortcuts.
-- **tree-sitter-jelly**: Efficient parsing and syntax highlighting for Jelly language.
 
 ## Community
 
 Join our growing community of developers and contribute to the OpenJelly Initiative:
 
-- **Developer Submissions and Listings**: Submit your Shortcuts on RoutineHub.co and track their adoption.
+- **Developer Submissions and Listings**: Submit your Shortcuts on [RoutineHub.co](https://routinehub.co?ref=https://github.com/OpenJelly) and track their adoption.
 - **Developer Interest**: Follow our projects and tutorials on RoutineHub's blog.
   - [Exploring IDEs for Apple Shortcuts](https://blog.routinehub.co/exploring-ides-for-apple-shortcuts/)
   - [Create an Image Converter Shortcut with Jellycuts](https://blog.routinehub.co/tutorial-to-create-an-image-converter-shortcut-with-jellycuts/)
@@ -92,7 +92,7 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 # FAQs
 
 1. **I'm not great with Github or Git, where can I try Jelly and Jellycuts mobile IDE?**
-   - Visit [jellycuts.com](https://jellycuts.com) and download for free. 
+   - Visit [jellycuts App](https://openjelly.com/ios) for Free Download. 
 
 2. **What is Jelly language like?**
    - Many developers say that Jelly Language resembles Swift and Javascript. If you have experience with Javascript, you should be able to create shortcuts quickly.
@@ -126,4 +126,9 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 10. **Is learning Jellycuts worth my time?**
     - If you are a new (or experienced) developer, Jellycuts can help you get your idea out into the world quickly. Rather than downloading a 13GB Xcode app, registering (and paying) for an Apple Developer account, and submitting your app for [App Store review](https://www.wired.com/story/developers-revolt-apple-dma/), you can write your core idea within Jellycuts in a fraction of that time, publish (and version control) your shortcut on [RoutineHub.co](https://RoutineHub.co?ref=https://github.co/openjelly), and get instant feedback from the larger RoutineHub community.
 
+11. What is RoutineHub?
+  - [RoutineHub](https://routinehub.co?ref=https://github.com/OpenJelly) is a platform dedicated to Shortcuts, allowing users to discover, share, and download pre-made shortcuts for iOS and macOS devices. It's a community-driven marketplace where creators can showcase their work and users can streamline their daily routines with automation.
+
+12. Why are we using their Discord?
+  - The original original author of Jelly Lang and Jellycuts has partnered with RoutineHub to open source these tools and launch the [#OpenJelly](https://twitter.com/hashtag/OpenJelly) initiative. Together, we aim to promote mobile-first development worldwide, starting with Shortcuts. RoutineHub's Discord hosts over 1800 members dedicated to Shortcuts and other forms of mobile-first technical development.
 
