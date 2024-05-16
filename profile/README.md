@@ -38,7 +38,7 @@ https://openjelly.com/join-discord
 
 If you find our projects useful, please consider starring our GitHub repositories. GitHub stars are crucial for gaining visibility and support, helping us secure grants and funding for further development. Your support makes a big difference!
 
-## Open-Jellycore
+### Open-Jellycore
 <!-- GitHub Star Button -->
 <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank">
   <img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub">
@@ -46,13 +46,13 @@ If you find our projects useful, please consider starring our GitHub repositorie
 
 Click the button above to star our [Open-Jellycore](https://github.com/OpenJelly/Open-Jellycore) compiler.
 
-## Open-Jellycuts
+### Open-Jellycuts
 <!-- GitHub Star Button -->
 <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a>
 
 Click the button above to star our [Open-Jellycuts](https://github.com/OpenJelly/Open-Jellycuts) IDE.
 
-## Tree-Sitter Jelly
+### Tree-Sitter Jelly
 
 <!-- GitHub Star Button -->
 <a href="https://github.com/OpenJelly/tree-sitter-jelly" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/tree-sitter-jelly?style=social" alt="Star on GitHub"></a>
