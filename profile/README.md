@@ -1,7 +1,7 @@
 # OpenJelly 
 
-![Discord](https://img.shields.io/discord/503976650439131183)     ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jellycuts)     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUXjwdDAsACRbbqIBYb8zNA)     
-
+[![Discord](https://img.shields.io/discord/503976650439131183)](https://routinehub.link/join-discord)
+    [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jellycuts)](http://openjelly.com/join-twitter)     [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUXjwdDAsACRbbqIBYb8zNA)](https://routinehub.link/join-youtube)  
 
 Welcome to the OpenJelly Initiative! Our organization is dedicated to acclerating and enhancing mobile-first development through innovative tools and libraries. We are responsible for these key repositories:
 
@@ -9,7 +9,7 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to accleratin
 |       | Repository | Description |
 |-------|---------|-------------|
 | <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub"></a> | **[Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)** | Enhance Shortcut development with a versatile, text-based language. |
-| <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a> | **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)** | Tailored for mobile development, this [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) enables devs to code from their phone. |
+| <a href="https://github.com/OpenJelly/Open-Jellycuts" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a> | **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)** | Tailored for mobile development, this [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) enables devs to code from their phone. |
 |  <a href="https://github.com/OpenJelly/tree-sitter-jelly" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/tree-sitter-jelly?style=social" alt="Star on GitHub"></a> | **[tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)** | A parser for the Jelly language, enabling efficient syntax highlighting and code analysis. |
 
 
@@ -47,7 +47,7 @@ Click the button above to star our [Open-Jellycore](https://github.com/OpenJelly
 
 ### Open-Jellycuts
 <!-- GitHub Star Button -->
-<a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a>
+<a href="https://github.com/OpenJelly/Open-Jellycuts" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a>
 
 Click the button above to star our [Open-Jellycuts](https://github.com/OpenJelly/Open-Jellycuts) IDE.
 
