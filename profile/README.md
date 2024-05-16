@@ -1,8 +1,7 @@
 # OpenJelly 
 
-<a href="https://openjelly.com/join-discord" target="_blank">
-  <img src="https://img.shields.io/discord/503976650439131183?logo=discord&amp;label=discord" alt="Star on GitHub">
-</a>
+![Discord](https://img.shields.io/discord/503976650439131183)     ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jellycuts)     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUXjwdDAsACRbbqIBYb8zNA)     
+
 
 Welcome to the OpenJelly Initiative! Our organization is dedicated to acclerating and enhancing mobile-first development through innovative tools and libraries. We are responsible for these key repositories:
 
