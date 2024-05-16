@@ -9,6 +9,7 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to enhancing 
 
 ---
 
+
 # Join the Movement
 
 Interested in helping shape the future of Shortcuts? 
@@ -16,8 +17,25 @@ Interested in helping shape the future of Shortcuts?
 Join today!
 https://routinehub.link/join-openjelly
 
----
 
+# Discuss the Roadmap
+
+To discuss our roadmap, please visit the RoutineHub Discord. Your insights and feedback are invaluable to us!
+
+https://routinehub.link/join-discord
+
+# Support Our Work
+
+If you find our projects useful, please consider starring our GitHub repositories. GitHub stars are crucial for gaining visibility and support, helping us secure grants and funding for further development. Your support makes a big difference!
+
+<!-- GitHub Star Button -->
+<a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank">
+  <img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub">
+</a>
+
+Click the button above to star our Open-Jellycore repository on GitHub!
+
+---
 
 
 ## What is OpenJelly?
@@ -55,8 +73,6 @@ Comprehensive documentation for each project can be found in their respective re
 
 Join our growing community of developers and contribute to the OpenJelly Initiative:
 
-<a class="github-button" href="https://github.com/buttons/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star buttons/github-buttons on GitHub">Star</a>
-
 - **Developer Submissions and Listings**: Submit your Shortcuts on RoutineHub.co and track their adoption.
 - **Developer Interest**: Follow our projects and tutorials on RoutineHub's blog.
   - [Exploring IDEs for Apple Shortcuts](https://blog.routinehub.co/exploring-ides-for-apple-shortcuts/)
@@ -65,7 +81,7 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 
 # FAQs
 
-1. **I'm not great with Github or Git, where can I try Jelly Lang and this Jellycuts mobile IDE?**
+1. **I'm not great with Github or Git, where can I try Jelly and Jellycuts mobile IDE?**
    - Visit [jellycuts.com](https://jellycuts.com) and download for free. 
 
 2. **What is Jelly language like?**
@@ -99,6 +115,5 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 
 10. **Is learning Jellycuts worth my time?**
     - If you are a new (or experienced) developer, Jellycuts can help you get your idea out into the world quickly. Rather than downloading a 13GB Xcode app, registering (and paying) for an Apple Developer account, and submitting your app for [App Store review](https://www.wired.com/story/developers-revolt-apple-dma/), you can write your core idea within Jellycuts in a fraction of that time, publish (and version control) your shortcut on [RoutineHub.co](https://RoutineHub.co?ref=https://github.co/openjelly), and get instant feedback from the larger RoutineHub community.
-
 
 
