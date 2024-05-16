@@ -15,6 +15,10 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to accleratin
 
 ---
 
+# Subscribe To Our Newsletter
+
+<div style="height: 100vh"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#ffffff" data-text-color="#000000" data-button-color="#302e76" data-button-text-color="#FFFFFF" data-title="Jellycuts" data-description="We Make Shortcuts Better" data-icon="https://jellycuts.ghost.io/content/images/size/w192h192/size/w256h256/2024/05/IMG_2081.png" data-site="https://jellycuts.ghost.io/" async></script></div>
+
 
 # Join the Movement
 
