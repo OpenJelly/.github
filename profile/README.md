@@ -11,6 +11,8 @@ Welcome to the OpenJelly Initiative! Our organization is dedicated to accleratin
 | <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub"></a> | **[Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)** | Enhance Shortcut development with a versatile, text-based language. |
 | <a href="https://github.com/OpenJelly/Open-Jellycuts" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycuts?style=social" alt="Star on GitHub"></a> | **[Open-Jellycuts](https://github.com/Jellycuts/Open-Jellycuts)** | Tailored for mobile development, this [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) enables devs to code from their phone. |
 |  <a href="https://github.com/OpenJelly/tree-sitter-jelly" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/tree-sitter-jelly?style=social" alt="Star on GitHub"></a> | **[tree-sitter-jelly](https://github.com/Jellycuts/tree-sitter-jelly)** | A parser for the Jelly language, enabling efficient syntax highlighting and code analysis. |
+|  <a href="https://github.com/OpenJelly/Brand" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/brand?style=social" alt="Star on GitHub"></a> | **[brand](https://github.com/OpenJelly/Brand)** | Primary brand guidelines for #OpenJelly. |
+
 
 
 ---
@@ -58,13 +60,20 @@ Click the button above to star our [Open-Jellycuts](https://github.com/OpenJelly
 
 Click the button above to star our [tree-sitter-jelly](https://github.com/OpenJelly/tree-sitter-jelly) language parser.
 
+### OpenJelly Branding
+
+<!-- GitHub Star Button -->
+<a href="https://github.com/OpenJelly/brand" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/brand?style=social" alt="Star on GitHub"></a>
+
+Click the button above to star our [brand](https://github.com/OpenJelly/brand) language parser.
+
 
 ---
 
 
 # What is OpenJelly?
 
-The OpenJelly Initiative is an open-source project aimed at revolutionizing mobile-first environments. By providing a text-based language and a dedicated IDE, we empower mobile developers to create more versatile and accessible Shortcuts breaking free from the limitations of traditional platforms.
+The OpenJelly Initiative is an open-source project aimed at spearheading mobile-first environments. By providing a text-based language and a dedicated IDE to Apple Shortcuts, we empower mobile developers to create more versatile and accessible Shortcuts breaking free from the limitations of traditional platforms.
 
 
 
@@ -97,7 +106,7 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
    - Many developers say that Jelly Language resembles Swift and Javascript. If you have experience with Javascript, you should be able to create shortcuts quickly.
 
 3. **Why did you not use Javascript?**
-   - Javascript is an expressive language but we found that it was not the right tool for creating Shortcuts. For example, await/async callbacks are a complex topic in Javascript that is unecessary with Shortcuts. Submitting a GET and POST request in Jelly is just easier to accmplish.
+   - Javascript is an expressive language but we found that it was not the right tool for creating Shortcuts. For example, await/async callbacks are a complex in Javascript and unecessary with Shortcuts. Submitting a GET and POST request in Jelly is just easier to accomplish.
 
 4. **Is there any way to integrate Javascript?**
    - Yes, many developers have found success adding Javascript to a WebView.
