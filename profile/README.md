@@ -6,6 +6,9 @@
 Welcome to the OpenJelly Initiative! Our organization is dedicated to acclerating and enhancing mobile-first development through innovative tools and libraries. We are responsible for these key repositories:
 
 
+![OpenJelly Logo](https://github.com/OpenJelly/Brand/blob/main/Logo/oj-logo-333-256.png?raw=true)
+
+
 |       | Repository | Description |
 |-------|---------|-------------|
 | <a href="https://github.com/OpenJelly/Open-Jellycore" target="_blank"><img src="https://img.shields.io/github/stars/OpenJelly/Open-Jellycore?style=social" alt="Star on GitHub"></a> | **[Open-Jellycore](https://github.com/Jellycuts/Open-Jellycore)** | Enhance Shortcut development with a versatile, text-based language. |
