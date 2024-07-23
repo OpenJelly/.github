@@ -79,7 +79,6 @@ Click the button above to star our [brand](https://github.com/OpenJelly/brand) l
 The OpenJelly Initiative is an open-source project aimed at spearheading mobile-first environments. By providing a text-based language and a dedicated IDE to Apple Shortcuts, we empower mobile developers to create more versatile and accessible Shortcuts breaking free from the limitations of traditional platforms.
 
 
-
 # Documentation
 
 Comprehensive documentation for each project can be found in their respective repositories:
@@ -98,6 +97,16 @@ Join our growing community of developers and contribute to the OpenJelly Initiat
 - **Developer Interest**: Follow our projects and tutorials on RoutineHub's blog.
   - [Exploring IDEs for Apple Shortcuts](https://blog.routinehub.co/exploring-ides-for-apple-shortcuts/)
   - [Create an Image Converter Shortcut with Jellycuts](https://blog.routinehub.co/tutorial-to-create-an-image-converter-shortcut-with-jellycuts/)
+
+
+
+## Donor Thank You's
+
+This project was made possible by Gitcoin #GG20 and all who participated. Thank you for supporting our vision to simplify the creation and use of Web3 software, all from a mobile phone.
+
+* [Gitcoin #GG20 Proposal](https://explorer.gitcoin.co/#/round/42161/27/51)
+* [Project Milestones and Updates](https://gap.karmahq.xyz/project/0x4eb129ead1b3ee323234e4fe0fc13d177b079695b9e14b7c8ff6b75230d13f0e?tab=grants&grant=0x2ff76b6bcf253e6a43417fcd1d39ecc70447b7b2c8c2b86b893cf0765caace60)
+
 
 
 # FAQs
